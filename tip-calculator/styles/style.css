@@ -125,7 +125,7 @@ input {
     width: 100%;
 }
 
-.peopleLabel {
+.people-number {
     display: flex;
     justify-content: space-between;
 }
@@ -157,7 +157,7 @@ input {
         height: 479px;
     }
 
-    .partOne {
+    .main {
         margin-top: 1rem;
         margin-left: 1.2rem;
         display: flex;
